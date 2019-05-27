@@ -1,0 +1,20 @@
+{
+  "name": "Crucible Card Translate",
+  "version": "1.0",
+  "description": "Changes the Card Language on thecrucible.online",
+  "web_accessible_resources": ["mouseover.js"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Translate!"
+  },
+  "permissions": [
+    "https://www.thecrucible.online/*",
+    "http://www.thecrucible.online/*",
+    "tabs",
+    "storage"
+  ],
+  "manifest_version": 2
+}
