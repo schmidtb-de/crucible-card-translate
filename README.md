@@ -1,3 +1,3 @@
 # crucible-card-translate
 
-Translates the zoomed Card on thecrucible.com into german.
+A Google Chrome Browser extension, that translates the zoomed Card on thecrucible.com into german.
