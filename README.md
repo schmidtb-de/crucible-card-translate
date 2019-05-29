@@ -15,10 +15,10 @@ Select the directory containing your unpacked extension.
 1. Start a new game
 2. Ingame just click on the extension icon and hover over an card to translate it.
 
-ToDo:
-------
+#### ToDo
 
 1. more languages (it,fr,es,pl)
 2. make translation permanent for one complete game
+3. add new set cards
 
  
